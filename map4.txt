@@ -1,0 +1,11 @@
+10
+BG.PB.B.-.B.BS.P.B.-.-
+B.PB.BG.B.PS.WB.BS.P.B.S
+B.PSB.B.-.B.BS.-.B.S.W
+S.WB.BS.S.B.P.B.-.-.GS
+-.BS.PS.WB.-.B.-.B.-.-
+B.-.B.S.B.-.B.P.B.-
+P.BG.P.BG.P.BG.P.B.-.G
+B.P.B.P.B.P.B.-.-.-
+-.B.-.B.S.B.-.-.-.-
+A.-.-.S.W.S.-.-.-.-
